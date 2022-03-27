@@ -2,10 +2,13 @@ Línea 1 creada al inicion desde el hub.
 Linea 1 creada localmente.
 Línea 2 creada desde el hub.
 Línea 4 creada localmente.
+Línea 4 creada desde el hub.
 Línea 5 creada localmente.
 Línea 6 creada localmente.
 Línea 7 creada localmente.
+Línea 7 creada desde el hub.
 Línea 8 creada localmente.
 Línea 9 creada localmente.
+Línea 9 creada desde el hub.
 Línea 10 creada localmente.
 
