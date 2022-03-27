@@ -1,5 +1,5 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxx
-Línea 1 creada al inicion desde el hub.
+Línea 2 creada al inicion desde el hub.
 Linea 1 creada localmente.
 Línea 2 creada desde el hub.
 Línea 4 creada localmente.
